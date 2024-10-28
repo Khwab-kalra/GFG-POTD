@@ -1,29 +1,5 @@
-geeksforgeeks
-Courses
-Tutorials
-Jobs
-Practice
-Contests
-K
-1
+#Ques - Occurence of an integer in a Linked List
 
-
-
-Refresh
-
-Time (IST)	Status	Marks	Lang	Test Cases	Code
-2024-10-26 16:41:01	Correct	
-2
-python3	1115 / 1115	View
-Python3
-
-
-
-class Node:
-
-# Occurence of an integer in a Linked List
-
-Custom Input
 """  
 class Node:
     def __init__(self, data):
