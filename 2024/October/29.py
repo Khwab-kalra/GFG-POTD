@@ -3,8 +3,7 @@
 
 def quickSort(head):
     if head is None:
-        return None
-        
+        return None        
 
     #sorting linked list using quicksort algorithm
 
