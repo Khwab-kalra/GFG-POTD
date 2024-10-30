@@ -1,6 +1,6 @@
 # User function Template for python3
 class Solution:
-
+ 
     def countPairsWithDiffK(self, arr, k):
         n = len(arr)
         maxEle = 0
